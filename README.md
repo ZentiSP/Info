@@ -22,6 +22,7 @@
 ## 🌱 Currently Learning
 
 - Blender 3D And other stuff related to 3D
+- Database & MySql
 
 ## 📫 How to reach me
 
