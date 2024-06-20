@@ -24,17 +24,12 @@
 
 - Blender 3D And other stuff related to 3D
 - Database & MySql
-- Javascript : React
+- Javascript : Pure javascirpt and liberies
+- Networking
 
 ## 📫 How to reach me
 
 ## 🚀 Projects
 
 - Portfolio Website
-- Unity 3D game
-
-## 🤝 Let's Connect!
-
-I'm always open to collaboration and networking. Let's connect and explore exciting opportunities together!
-
----
+- School project 👀
